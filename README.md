@@ -1,0 +1,2 @@
+# LearnMate-Agentic-AI-for-Personalized-Course-Pathways
+Students often struggle to identify the right learning path that aligns with their interests and long-term goals due to the overwhelming number of online courses and a lack of personalized guidance. LearnMate aims to solve this by acting as an Agentic AI coach that interacts with students and understand their interests and help finding right path.
